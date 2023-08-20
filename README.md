@@ -9,7 +9,7 @@
 - A sense of belonging and community among low income students <br>
 - Resource sharing <br>
 - Initiative to help by creating incentives such as an opportunity for senior low income students to receive gift cards to purchase food, clothes and supplies by increasing their 'rank' <br>
-- Reduction in the opportunity and time costs of finding cost-effective and budget-friendly books in libraries or platforms <br>
+- Reduction in the opportunity and time costs of finding cost-effective and budget-friendly books and lack of availability in libraries or platforms <br>
 - And most importantly, help low income students feel valued in the community and have the ability to contribute <br>
 - Reusing textbooks and reducing waste (also lowering printing costs) <br>
 
