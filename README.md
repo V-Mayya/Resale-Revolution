@@ -38,7 +38,13 @@
 <details close>
 <summary><b>What was this project built with?</b></summary>
 <br>
-Coded from scratch and primarily used Python and Streamlit. Some packages used include numpy, pandas, matplotlib (and others such as time and random). Used SQLite to build a database to store user signup information and use it on other pages in the web app. Also used the os module as part of this. Incorporated a bit of HTML to make a few changes to the default structure. Started with a basic web app structure and then added further details. Coded in Visual Code.  
+Coded from scratch and primarily used Python and Streamlit. 
+<br>
+Some packages used include numpy, pandas, matplotlib (and others such as time and random). Used SQLite to build a database to store user signup information and use it on other pages in the web app. 
+<br>
+Also used the os module as part of this. Incorporated a bit of HTML to make a few changes to the default structure. 
+<br>
+Started with a basic web app structure and then added further details. Coded in Visual Code.  
 </details>
 
 <details close>
