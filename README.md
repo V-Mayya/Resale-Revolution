@@ -8,7 +8,7 @@
 
 ‣ **Video Demo**: Click on the image below to find a video demo of the project: 
 
-[![Image of Video Demo Page](Images/youtube_thumbnail.png)](https://youtu.be/G94IZ57-uKc)
+[![Image of Video Demo Page](Images/videodemo_thumbnail.png)](https://youtu.be/G94IZ57-uKc)
 
 ‣ To run the code on your device:  
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information
