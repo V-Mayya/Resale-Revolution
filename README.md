@@ -44,11 +44,15 @@ Coded from scratch and primarily used Python and Streamlit. Some packages used i
 <details close>
 <summary><b>Features and structure of web app</b></summary>
 <br>
-Analytics: Buyers track the number of gift cards sent, their monthly savings by purchasing/borrowing textbooks on the web app, gain accomplishments/badges. Sellers/lenders track the number of books loaned/sold, receive badges and ranks (eg: for affordability, lending periods, textbook condition). Both can find out how many they lives were impacted (based on books sold/lent or gift cards sent). Sellers analytics page will be developed. <br>
-Select Textbook: (buyer/borrower account) Find textbook matches based on users' backgrounds (eg: university or school and major). Specific seller/lender match after finding appropriate textbooks (textbook match) can be based on similar economic status of a seller/lender and buyer/borrower (the latter will be developed). Obtain images and features of the selected textbook (including textbook condition) and then make a choice to either buy or borrow it. Option to also send virtual gift cards to sellers/lenders. <br>
-Ratings & Reviews: Leave ratings and constructive feedback on the seller's services, contributing to the seller's overall rank. <br>
-Message: Message other users about receiving books, meeting times, locations and more. Connect with senior university or school students for support and general help. Create a sense of inclusivity - page will be developed. <br>
-Profile Settings & Payments: Find profile details such as financial information and questions answered during signup.  The payments page can include the ability to connect to personal bank accounts, gift card providers and more - payments page will be developed. 
+- Analytics: Buyers track the number of gift cards sent, their monthly savings by purchasing/borrowing textbooks on the web app, gain accomplishments/badges. Sellers/lenders track the number of books loaned/sold, receive badges and ranks (eg: for affordability, lending periods, textbook condition). Both can find out how many they lives were impacted (based on books sold/lent or gift cards sent). Sellers analytics page will be developed. <br>
+<br> 
+- Select Textbook: (buyer/borrower account) Find textbook matches based on users' backgrounds (eg: university or school and major). Specific seller/lender match after finding appropriate textbooks (textbook match) can be based on similar economic status of a seller/lender and buyer/borrower (the latter will be developed). Obtain images and features of the selected textbook (including textbook condition) and then make a choice to either buy or borrow it. Option to also send virtual gift cards to sellers/lenders. <br>
+<br> 
+- Ratings & Reviews: Leave ratings and constructive feedback on the seller's services, contributing to the seller's overall rank. <br>
+<br> 
+- Message: Message other users about receiving books, meeting times, locations and more. Connect with senior university or school students for support and general help. Create a sense of inclusivity - page will be developed. <br>
+<br> 
+- Profile Settings & Payments: Find profile details such as financial information and questions answered during signup.  The payments page can include the ability to connect to personal bank accounts, gift card providers and more - payments page will be developed. 
 </details>
 
 --- 
