@@ -23,9 +23,9 @@
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information
 -  
 
-**Note**: Due to the time-constrained nature under which the software was buult, there are several ways to improve the code structure, security, resolve errors and exception handling. I will be working to improve these features in the future. 
+**Note**: Due to the time-constrained nature under which the software was built, there are several ways to improve the code structure, security, resolution of errors, and exception handling. I will be working to improve these features in the future.
 
-‣ **Find the code [here](empower_hacks_code.py)**. 
+‣ Find the code **[here](empower_hacks_code.py)**. 
 
 ‣ Further questions on project background: <br/> 
 
