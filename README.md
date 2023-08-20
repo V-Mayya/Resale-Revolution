@@ -54,5 +54,6 @@
 <br> 
 - Profile Settings & Payments: Find profile details such as financial information and questions answered during signup.  The payments page can include the ability to connect to personal bank accounts, gift card providers and more - payments page will be developed. 
 </details>
+
 --- 
 
