@@ -13,7 +13,7 @@
 - And most importantly, help low income students feel valued in the community and have the ability to contribute <br>
 - Reusing textbooks and reducing waste (also lowering printing costs) <br>
 
-‣ See **Devpost project** [page](https://devpost.com/software/resale-revolution) for more details
+‣ See **Devpost project** [page](https://devpost.com/software/resale-revolution) for more details (including future implications, user guide, inspiration and more)
 
 ‣ **Video Demo**: Click on the image below to find a video demo of the project: 
 
@@ -60,6 +60,5 @@
 <br> 
 - Profile Settings & Payments: Find profile details such as financial information and questions answered during signup.  The payments page can include the ability to connect to personal bank accounts, gift card providers and more - payments page will be developed. 
 </details>
-
 --- 
 
