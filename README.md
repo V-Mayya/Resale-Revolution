@@ -23,15 +23,9 @@
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information
 -  
 
-**Note**: Since the code is the result of a 48-hour hackathon challenge, there are certainly numerous ways to improve the code structure, security, and exception handling (to resolve errors in user input and more). This will be one of the important improvements I will be making in the future.
+**Note**: Due to the time-constrained nature under which the software was buult, there are several ways to improve the code structure, security, resolve errors and exception handling. I will be working to improve these features in the future. 
 
-**Find the code [here](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/code.py)**. Some data visualisations produced were: <br/>
-(i) [Monthly profit in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20profits.png)<br/>
-(ii) [Monthly sales and expenditures in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales%20and%20expenditures.png)<br/>
-(iii) [Monthly sales in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales.png)<br/>
-(iv) [Percentage change in sales over the months](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/Percentage_change_in_sales.png)
-
-
+‣ **Find the code [here](empower_hacks_code.py)**. 
 
 ‣ Further questions on project background: <br/> 
 
