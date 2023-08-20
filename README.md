@@ -13,7 +13,7 @@
 - And most importantly, help low income students feel valued in the community and have the ability to contribute <br>
 - Reusing textbooks and reducing waste (also lowering printing costs) <br>
 
-‣ **Devpost project** [page](https://devpost.com/software/resale-revolution)
+‣ See **Devpost project** [page](https://devpost.com/software/resale-revolution) for more details
 
 ‣ **Video Demo**: Click on the image below to find a video demo of the project: 
 
