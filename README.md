@@ -21,7 +21,7 @@
 
 ‣ To run the code on your device:  
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information
-- 
+-  
 
 **Note**: Since the code is the result of a 48-hour hackathon challenge, there are certainly numerous ways to improve the code structure, security, and exception handling (to resolve errors in user input and more). This will be one of the important improvements I will be making in the future.
 
