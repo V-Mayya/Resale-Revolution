@@ -23,8 +23,16 @@
 [![Image of Video Demo Page](Images/videodemo_thumbnail.png)](https://youtu.be/M8Gl508-fq4) 
 
 ‣ To run the code on your device:  
-- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information
--  
+- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the file as you please) 
+- Input the following commands on your terminal (once you create a directory at a location of your choice)
+
+```
+git clone https://github.com/V-Mayya/Resale-Revolution
+```
+Once you are in the repository folder: 
+```
+streamlit run empower_hacks_code.py 
+```
 
 **Note**: Due to the time-constrained nature under which the software was built, there are several ways to improve the code structure, security, resolution of errors, and exception handling. I will be working to improve these features in the future.
 
