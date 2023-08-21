@@ -49,7 +49,7 @@ streamlit run empower_hacks_code.py
 <br>
 - Also used the os module as part of this. Incorporated a bit of HTML to make a few changes to the default structure. 
 <br>
-- Started with a basic web app structure and then added further details. Coded in Visual Code.  
+- Started with a basic web app structure and then added further details. Coded in Visual Studio Code.  
 </details>
 
 <details close>
