@@ -4,7 +4,7 @@
 --- 
 <img src="Images/thumbnail.png" width="500" height="270" />
 
-‣ **Main Idea**: Web application that facilitates lending/borrowing & selling/purchasing of course second-hand low-priced textbooks amongst students, with some unique elements (involving gift cards, tracking analytics and more), to promote: 
+‣ **Main Idea**: Web application that facilitates lending/borrowing & selling/purchasing of second-hand low-priced course textbooks amongst students, with some unique elements (involving gift cards, tracking analytics and more), to promote: 
 - Learning for academic success, unburdened by financial concerns <br>
 - A sense of belonging and community among low income students <br>
 - Resource sharing <br>
