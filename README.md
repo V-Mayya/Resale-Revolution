@@ -25,7 +25,7 @@
 [![Image of Video Demo and Pitch](Images/videodempitch.png)](https://youtu.be/M8Gl508-fq4) 
 
 ‣ To run the application on your device:  
-- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the database file in the code based on your preference) 
+- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the database file in the code if you prefer) 
 - Input the following commands on your terminal (once you create a directory [mkdir] at a location of your choice and are in your newly created directory [cd new_directory_name])
 
 ```
