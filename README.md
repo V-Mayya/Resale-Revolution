@@ -29,7 +29,7 @@
 ```
 git clone https://github.com/V-Mayya/Resale-Revolution
 ```
-Once you are in the repository folder ("Resale-Revolution", using cd): 
+Once you are in the repository folder ("Resale-Revolution", using cd), run the following command: 
 ```
 streamlit run empower_hacks_code.py 
 ```
