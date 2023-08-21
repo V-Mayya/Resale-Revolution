@@ -13,7 +13,7 @@
 - And most importantly, help low income students feel valued in the community and have the ability to contribute <br>
 - Reusing textbooks and reducing waste (also lowering printing costs) <br>
 
-**Note:** In addition to first generation low income college students, the project created has been extended to low income high school students as well. 
+**Note:** In addition to first generation low income college students, the project created has been extended to low income school students as well. 
 
 ‣ See **Devpost project** [page](https://devpost.com/software/resale-revolution) for more details (including future implications, user guide, inspiration and more)
 
