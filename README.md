@@ -18,9 +18,9 @@
 ‣ The prompt was
 > "Create software that addresses an issue in first generation low income students such as: financial planning, career opportunities, mental health, community building, or an issue found in your community." 
 
-‣ **Video Demo**: Click on the image below to find a pitch and video demo of the project: 
+‣ **Video Demo and Pitch**: Click on the image below to find a pitch and video demo of the project: 
 
-[![Image of Video Demo Page](Images/videodemo_thumbnail.png)](https://youtu.be/M8Gl508-fq4) 
+[![Image of Video Demo and Pitch](Images/videodemo_thumbnail.png)](https://youtu.be/M8Gl508-fq4) 
 
 ‣ To run the application on your device:  
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the database file in the code as you please) 
