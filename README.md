@@ -36,7 +36,7 @@ Once you are in the repository folder ("Resale-Revolution", using cd), run the f
 streamlit run empower_hacks_code.py 
 ```
 
-**Note**: Due to the time-constrained nature under which the software was built, there are several ways to improve the code structure, security, resolution of errors, and exception handling. I will be working to improve these features in the future.
+**Note**: Due to the time-constrained nature under which the software was built, there are several ways to improve the code structure, security, resolution of errors, and exception handling. I will work on improving these features in the future.
 
 ‣ Find the code **[here](empower_hacks_code.py)**. 
 
