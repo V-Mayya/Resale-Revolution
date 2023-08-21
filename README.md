@@ -23,7 +23,7 @@
 [![Image of Video Demo Page](Images/videodemo_thumbnail.png)](https://youtu.be/M8Gl508-fq4) 
 
 ‣ To run the code on your device:  
-- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the file as you please) 
+- Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the database file in the code as you please) 
 - Input the following commands on your terminal (once you create a directory at a location of your choice)
 
 ```
