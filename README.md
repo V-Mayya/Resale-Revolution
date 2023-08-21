@@ -24,7 +24,7 @@
 
 ‣ To run the application on your device:  
 - Install [DB Browser for SQLite](https://sqlitebrowser.org/) to find saved user signup information (rename the database file in the code as you please) 
-- Input the following commands on your terminal (once you create a directory [mkdir] at a location of your choice)
+- Input the following commands on your terminal (once you create a directory [mkdir] at a location of your choice and are in your newly created directory [cd new_directory_name])
 
 ```
 git clone https://github.com/V-Mayya/Resale-Revolution
