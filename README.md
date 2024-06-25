@@ -68,5 +68,14 @@ streamlit run empower_hacks_code.py
 - Profile Settings & Payments: Find profile details such as financial information and questions answered during signup.  The payments page can include the ability to connect to personal bank accounts, gift card providers and more - payments page will be developed. 
 </details>
 
+<details close>
+<summary><b> What were the judging criteria, and who were the event sponsors?</b></summary>
+<br>
+- Judging criteria: impact on community, design/usability, sustainability/next steps, clarity in presentation, open source code, novelty of idea.
+<br>
+-  Event sponsors: Wolfram, AoPS, 1Password. 
+<br>
+</details>
+
 --- 
 
