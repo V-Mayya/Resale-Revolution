@@ -69,7 +69,7 @@ streamlit run empower_hacks_code.py
 </details>
 
 <details close>
-<summary><b> What were the judging criteria, and who were the event sponsors?</b></summary>
+<summary><b> What was the judging criteria, and who were the event sponsors?</b></summary>
 <br>
 - Judging criteria: impact on community, design/usability, sustainability/next steps, clarity in presentation, open source code, novelty of idea.
 <br>
